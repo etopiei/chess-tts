@@ -1,0 +1,7 @@
+24out/*
+20out/*
+.venv
+__pycache__
+.tool-versions
+make_audio_files.py
+.DS_Store
